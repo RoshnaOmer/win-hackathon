@@ -1,4 +1,4 @@
-# Ethical Social Media Presence Checker
+# Ethical Social Media Presence Checker aka ([WIN, the Hackathon!](https://cros.ec.europa.eu/book-page/win-hackathon))
 *Created on October 9, 2024*
 
 ## Overview
