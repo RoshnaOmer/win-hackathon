@@ -17,6 +17,10 @@ This project was developed with the assistance of Claude 3.5 Sonnet, an AI langu
 1. Web Scraper (`scraper.py`)
 2. Results Analyzer (`analyzer.py`)
 
+### The result of the version is:
+![image](https://github.com/user-attachments/assets/8048d88a-cce2-4339-b9bc-1393293235df)
+
+
 ## Ethical Considerations
 This project adheres to ethical web scraping principles:
 - Uses a clear User Agent string with contact information
