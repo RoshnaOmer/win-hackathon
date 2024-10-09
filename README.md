@@ -5,7 +5,7 @@
 This project provides an ethical web scraping solution to analyze the social media presence of websites listed in a CSV file. The implementation follows ethical web scraping guidelines and provides comprehensive analysis of the results.
 
 ## Disclaimer
-This project was developed with the assistance of Claude 3.5 Sonnet, an AI language model by Anthropic. The conversation that led to this implementation is available in [CONVERSATION.md](CONVERSATION.md).
+This project was developed with the assistance of Claude 3.5 Sonnet, an AI language model by Anthropic. The conversation that led to this implementation is summarized using Claude Sonnet in [CONVERSATION.md](CONVERSATION.md) and a human (me) took a screenshot of the whole convo, it is available in [this file](screencapture-claude-ai-chat-2024-10-09.pdf).
 
 ## Features
 - Ethical web scraping following industry best practices
